@@ -47,7 +47,7 @@ installThemeQuestion(){
 }
 
 repair(){
-    bash <(curl https://raw.githubusercontent.com/KolaxxDev/KolaxxTheme/main/repair.sh)
+    bash <(curl https://raw.githubusercontent.com/KolaxxDev/KolaxxTheme/master/repair.sh)
 }
 
 restoreBackUp(){
